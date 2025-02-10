@@ -1,2 +1,2 @@
 # pytorch_tutorials
-Buildling proficiency in Pytorch.
+Building proficiency in Pytorch.
